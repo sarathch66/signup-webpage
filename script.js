@@ -5,7 +5,7 @@ const message = document.getElementById('message');
 const GITHUB_TOKEN = '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';
 
 // Gist details
-const GIST_ID = 'https://gist.github.com/sarathch66/b12646faee139b01188f3c7550d7c304.js';
+const GIST_ID = 'https://gist.github.com/sarathch66/b12646faee139b01188f3c7550d7c304';
 const GIST_FILENAME = 'signup_data.json';
 
 // Function to get existing data from Gist
